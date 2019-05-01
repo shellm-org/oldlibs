@@ -2,7 +2,7 @@
 
 ## \brief External requirements for shell scripts.
 
-shellm-source shellm/shellman/lib/shellman.sh
+shellm source shellm/shellman/lib/shellman.sh
 
 [ $# -eq 0 ] && shellman_usage
 

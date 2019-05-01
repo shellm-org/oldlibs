@@ -4,7 +4,7 @@ shellm-define
 ## @file message.sh
 ## @brief Provide useful message functions
 
-shellm-source core/format.sh
+shellm source core/format.sh
 
 ## @fn void color (color, message)
 ## @brief Set the color to color, and output message if given

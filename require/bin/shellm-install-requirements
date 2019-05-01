@@ -3,10 +3,10 @@
 ## \brief Install the listed requirements for the given script
 ## \require coreutils
 
-shellm-source core/shellman.sh
-shellm-source core/init/data.sh
-shellm-source core/init/require.sh
-shellm-source core/format.sh
+shellm source core/shellman.sh
+shellm source core/init/data.sh
+shellm source core/init/require.sh
+shellm source core/format.sh
 
 [ $# -eq 0 ] && usage
 

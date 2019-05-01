@@ -4,8 +4,8 @@ shellm-define
 ## @file file.sh
 ## @brief Provide functions to manage text files (read, write)
 
-shellm-source message.sh
-shellm-source string.sh
+shellm source message.sh
+shellm source string.sh
 
 cgLinePrefix=no
 

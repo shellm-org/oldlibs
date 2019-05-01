@@ -31,5 +31,5 @@ As a library:
 # with basher's include
 include shellm/require lib/require.sh
 # with shellm's include
-shellm-source shellm/require lib/require.sh
+shellm source shellm/require lib/require.sh
 ```

@@ -3,8 +3,8 @@ shellm-define
 
 ## \brief Provide useful function to get stdin content.
 
-shellm-source ui/auto.sh
-shellm-source message.sh
+shellm source ui/auto.sh
+shellm source message.sh
 
 shellm_ask_confirm=
 shellm_ask_timeout=-1
